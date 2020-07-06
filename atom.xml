@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>2018slgys</title>
+  
+  <subtitle>我认得,我记得你,相比你年轻时的容貌，我更喜欢你饱经沧桑的面容.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/2018slgys/2018slgys.github.io/"/>
+  <updated>2020-07-04T09:59:11.166Z</updated>
+  <id>https://github.com/2018slgys/2018slgys.github.io/</id>
+  
+  <author>
+    <name>2018slgys</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大二下总结与暑假计划安排</title>
+    <link href="https://github.com/2018slgys/2018slgys.github.io/2020/07/02/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E6%80%BB%E7%BB%93%E4%B8%8E%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92%E5%AE%89%E6%8E%92/"/>
+    <id>https://github.com/2018slgys/2018slgys.github.io/2020/07/02/%E5%A4%A7%E4%BA%8C%E4%B8%8B%E6%80%BB%E7%BB%93%E4%B8%8E%E6%9A%91%E5%81%87%E8%AE%A1%E5%88%92%E5%AE%89%E6%8E%92/</id>
+    <published>2020-07-02T09:35:19.000Z</published>
+    <updated>2020-07-04T09:59:11.166Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.xjh.me/random_img.php?type=bg&amp;ctype=acg&amp;return=302" alt="封面图片" /></p><h2 id="缘起"><a class="markdownIt-Anchor" href="#缘起"></a> 缘起</h2><p>        今天是是<strong>2020年7月2日</strong>,三门专业课数据库和计组的口试已经完结,虽然结果不是那么称心如意,下周一还有一个计网口试,然后等两周毛概小论文,于是大二就这样结束了.尤其是这学期,全程划水,一点收获都没有,上学期结束时立下的flag全成了狗屁.至于成绩,三门专业课全是口试,主观性太大而容错性太小,所以很大可能会翻车,于是就采用一种近乎疯狂的随缘复习法,考前一天看,能看到什么程度就看到什么程度,反正及格是一定的.</p><p>        最近两天要列一下暑假的计划安排,计网口试后,差不多就可以开始了.暑假主要的任务是作杭电OJ,洛谷,牛客,POJ,UVaOJ以及CF上的练习题和模拟赛的题目,主要的参考书是&lt;算法竞赛从入门到进阶&gt;, &lt;算法竞赛入门指南&gt;,&lt;数据结构与编程实验&gt;等.具体的计划安排,会在后面列出.做题的话有以下几点要注意:</p><ol><li><p>先学知识和例题,弄明白后独立的写一下知识总结;</p></li><li><p>独立的求解练习题,写博客记录解题过程和思路;</p></li><li><p>没有想法的题目,可以先查一查网上的解题思路,然后看看能不能独立的写出程序,真的没法写出后,再看题解,记得对这个题做标记,后面要重点关注.</p></li></ol><p>        如果秋季可以顺利开学的话,就参加一次CCF-CSP认证,检验一下这个暑假的成果.</p><p>        其次是英语,开学不就就有英语六级考试了,另外做的大部分题目都是英文题目,所以词汇量,阅读能力很重要.这英语啊,目前的水平,和没学,没有任何区别啊,到时要想一想办法啊,应该从最初级的音标开始学吧,难办啊.</p><hr /><p><em>今天暂时就写这点把,后面有时间去填充.2020年7月2日22:08:45.</em></p><hr /><h2 id="计划"><a class="markdownIt-Anchor" href="#计划"></a> 计划</h2><p>        暑假以做题为主,兼顾英语.然后进一步学习C++语言,汇编的话,能找到书的话也尽量学一学.最后,像大学语文这种可以看看.</p><h3 id="算法做题"><a class="markdownIt-Anchor" href="#算法做题"></a> 算法做题</h3><p>        从之前的经验和教训来看,这部分主要包含数学(数论,组合数学,博弈等),基本算法(搜索,分治,减治,二分,贪心,暴力等),动态规划,图论,字符串相关的算法与数据结构,高级数据结构,计算几何等.</p><p>        我的想法是先从数学部分开始做,掌握基本知识点,能做出基于例题的扩展题.然后是做一做可以用基本算法即能解决的题目(比如搜索,分治,减治,贪心),这一部分主要是做题.然后去学动态规划(DP),这部分先学基础知识,然后做例题,然后是做对应的练习题.然后是图论,这部分相对来说,模板比较多一些.然后是字符串和高级数据结构,计算几何就放一边吧,肯定是没时间看的了.</p><p>        下周先要花一两天调整,最迟的话,8号可以开始,到7月底至少有20天可以自由支配,然后是8月,不出意外应该至少有25天是空闲的,可以自由支配,也就是说中间不出意外,着45天时间是可以全部投入的,当然这是比较乐观的情况.然后根据这个简单的列一下.</p><ul><li><p>数学(数论, 组合数学, 博弈论)</p><p>先学基本知识,然后做例题,再做一些简单的练习题,一周的时间也许勉强够吧.主要内容:</p><ul><li><p>数论</p><ul><li><p>高精度与快速幂取模</p></li><li><p>GCD,LCM和扩展欧几里得</p></li><li><p>同余与逆元</p></li><li><p>素数</p></li></ul></li><li><p>组合数学</p><ul><li><p>加法原理 乘法原理 鸽巢原理 容斥原理</p></li><li><p>波利亚定理</p></li><li><p>母函数</p></li><li><p>莫比乌斯反演</p></li></ul></li><li><p>博弈论</p><ul><li><p>巴什游戏 尼姆游戏 图游戏 威佐夫游戏</p></li><li><p>P/N-position</p></li><li><p>S-G函数</p></li></ul></li></ul></li><li><p>基本算法</p><p>最基本的暴力枚举搜索,到DFS/BFS搜索,以及剪枝优化.分治,减治,二分贪心在题目中的应用,这部分主要是做题,至少要五天时间能熟悉.</p></li><li><p>动态规划</p><p>最难的一部分,也不打算花过多的时间,主要学相关的知识,然后做一做对应的例题和习题,预计至少要十天.</p><ul><li><p>背包问题</p></li><li><p>LCS,LIS记忆化搜索</p></li><li><p>区间DP</p></li><li><p>树形DP</p></li><li><p>状压DP</p></li><li><p>…</p></li></ul></li><li><p>图论</p><p>这部分主要是学习已有的图模型和对应的算法框架,难点应该是应用这些模板来做题,预计要一周时间能勉强接收.</p><ul><li><p>DAG拓扑排序 欧拉路 哈密顿图</p></li><li><p>图连通性 割边割点 连通分量</p></li><li><p>Kosaraju算法 Tarjan算法</p></li><li><p>最短路 Floyd算法 Bellman算法 SPFA算法 Dijkstra算法</p></li><li><p>最小生成树 Prim算法 Kruskal算法</p></li><li><p>网络流  最大流 Ford-Fulkerson算法 Edmonds-Karp算法 Dinic算法 ISAP算法 最小割 最小费用最大流 二分图</p></li><li><p>…</p></li></ul></li><li><p>字符串</p><p>这部分好像是我一直忽略的一个地方,有必要多花些时间,从基础知识开始学.一周的时间应该够吧.</p><ul><li>哈希</li><li>KMP</li><li>字典树</li><li>AC自动机</li><li>后缀树和后缀数组</li></ul></li><li><p>数据结构<br />这部分主要是学习一些常见的高级的数据结构,先学一些基本的,一周时间应该够了.</p><ul><li>并查集</li><li>二叉树</li><li>线段树</li><li>树状数组</li><li>…</li></ul></li><li><p>计算几何</p><p>一点想法安排也没有┭┮﹏┭┮.</p></li></ul><p>一定要记得学习一些知识点做了对应的题目后写博客记录总结.</p><h3 id="英语"><a class="markdownIt-Anchor" href="#英语"></a> 英语</h3><h3 id="其它"><a class="markdownIt-Anchor" href="#其它"></a> 其它</h3><h2 id="后记"><a class="markdownIt-Anchor" href="#后记"></a> 后记</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img.xjh.me/random_img.php?type=bg&amp;amp;ctype=acg&amp;amp;return=302&quot; alt=&quot;封面图片&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;缘起&quot;&gt;&lt;a class=&quot;markdownIt-Anch
+      
+    
+    </summary>
+    
+    
+      <category term="碎碎念" scheme="https://github.com/2018slgys/2018slgys.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+      <category term="总结" scheme="https://github.com/2018slgys/2018slgys.github.io/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/%E6%80%BB%E7%BB%93/"/>
+    
+    
+      <category term="碎碎念" scheme="https://github.com/2018slgys/2018slgys.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+      <category term="总结" scheme="https://github.com/2018slgys/2018slgys.github.io/tags/%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+</feed>
