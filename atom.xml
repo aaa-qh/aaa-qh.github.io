@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/2018slgys/2018slgys.github.io/"/>
-  <updated>2020-07-04T09:59:11.166Z</updated>
+  <updated>2020-07-06T06:49:28.461Z</updated>
   <id>https://github.com/2018slgys/2018slgys.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于博客二三事</title>
+    <link href="https://github.com/2018slgys/2018slgys.github.io/2020/07/06/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E4%BA%8C%E4%B8%89%E4%BA%8B/"/>
+    <id>https://github.com/2018slgys/2018slgys.github.io/2020/07/06/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E4%BA%8C%E4%B8%89%E4%BA%8B/</id>
+    <published>2020-07-06T06:45:20.000Z</published>
+    <updated>2020-07-06T06:49:28.461Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img.xjh.me/random_img.php?type=bg&ctype=acg&return=302"></img></p><p>        花了一些时间把博客园博客的样式重新整理了一下,然后把CSDN博客的博文整理了一下,希望以后能坚持下来写博客记录学习和生活的感悟与思考.</p><p>        毋庸置疑的是CSDN博客能够自由改变样式的地方几乎没有,通俗来说,就是如果想折腾以下,最好不要选择CSDN博客尤其是底部的文章推荐,看了确实恶心,但是你既然选择白嫖人家的服务器资源,又不想付费,就要接收,但是仍然给看到这个文章的你提醒一下,如果对我这个文章感兴趣,不妨移不博客园前去观看,个人认为比这个好很多.</p><p>        博客园博客地址:<a href="https://www.cnblogs.com/2018slgys/" target="_blank" rel="noopener">2018slgys的博客园首页</a></p><p>        至于CSDN博客的作用主要是为了备份.</p><p>        CSDN博客地址:<a href="https://blog.csdn.net/qq_43220622" target="_blank" rel="noopener">2018slgys的CSDN博客首页</a></p><p>        这个是我的个人博客的地址:<a href="http://www.2018slgys.top/" target="_blank" rel="noopener">2018slgys的个人博客的地址</a></p><p>        补充一个今天刚刚把原来的个人博客搬迁到github上的地址:<a href="https://2018slgys.github.io/" target="_blank" rel="noopener">github上的个人博客首页</a></p><p>        因为个人博客不是很稳定,有时候渲染LaTex公式会出现意外的错误(有一个地方配置冲突了但是我没找到),而且加载有些慢,所以我博文一般都是现在本地用Hexo创建一个源文件,然后同步发送到博客园和CSDN上个人博客更新则较慢,但是更新的数量多,保证一定是当前最新的.</p><p>        基本上就这些了.</p><p>        最后,陌生人,如果你发现博文内容有错误,请通过QQ联系我,十分感谢,这个是二维码:</p><p><img src="https://images.cnblogs.com/cnblogs_com/2018slgys/1750108/o_2007031318351593781717846_temp_qrcode_share_9993.png" width=35% align="middle"></img></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img.xjh.me/random_img.php?type=bg&amp;ctype=acg&amp;return=302&quot;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;        花了一些时间把博客园博客的样式重新整理了一下,然后把CSDN博客的博文整理了一下,
+      
+    
+    </summary>
+    
+    
+    
+      <category term="碎碎念" scheme="https://github.com/2018slgys/2018slgys.github.io/tags/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+    
+  </entry>
   
   <entry>
     <title>大二下总结与暑假计划安排</title>
